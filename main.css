@@ -1,1 +1,86 @@
-initialize css file
+.logo {
+  margin-top:2px;
+  margin-bottom:2px;
+  width:400px;
+}
+
+.footer {
+  margin-top:10px;
+  font-size:10px;
+}
+
+body{
+    background-color: #f7f447;
+    font-size: 1.7em;
+  font-family:monospace;
+}
+
+#twitch-table{
+    border: 3px solid white;
+}
+
+hr{
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.fa-twitch{
+    color: rebeccapurple;
+}
+.fa-twitch:hover{
+    color: #666666;;
+}
+
+#all-btn{
+    background-color: rebeccapurple;
+    color: white;
+
+}
+#online-btn{
+    background-color: #4d9e51;
+    color: white;
+}
+#offline-btn{
+   background-color:#af0b00;
+    color: white;
+}
+
+.offline-well{
+    background-color: #af0b00;
+    color: white;
+    border: 2px solid white;
+    margin-bottom: 4px;
+
+}
+
+a{
+    color:white;
+}
+
+.img-circle{
+    float: left;
+    width:40px;
+    height: 40px;
+    border:2px solid white;
+}
+
+.online-well{
+    background-color:#4d9e51;
+    color: white;
+    border: 2px solid white;
+    margin-bottom: 4px;
+}
+.deleted-well{
+    background-color:#A4A0A0;
+    color: white;
+    border: 2px solid white;
+    margin-bottom: 4px;
+}
+
+#streamers{
+    width: 95%;
+    margin: 0 auto;
+}
+.fa-eye{
+    color:#646262;
+}
