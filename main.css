@@ -12,7 +12,8 @@
 body{
     background-color: #f7f447;
     font-size: 1.7em;
-  font-family:monospace;
+    font-family:monospace;
+    text-align: center;
 }
 
 #twitch-table{
