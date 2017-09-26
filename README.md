@@ -1,3 +1,3 @@
-A Twitch TV user configurator made for CodeCamp's "Intermediate Front End" projects.
+A simple web interface for configuration of Twitch TV users
 
-The app can be seen at the following links: https://codepen.io/vaughnanton/pen/qmWyOB ||| https://vaughnanton.github.io/fcc_twitch_tv/
+The app can be seen via [codepen](https://codepen.io/vaughnanton/pen/qmWyOB) or [github pages](https://vaughnanton.github.io/fcc_twitch_tv/).
